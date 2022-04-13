@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    margin: 25px auto;
+
+    display: flex;
+    gap: 20px;
+    /* justify-content: flex-start; */
+}
+.task-button{
+    margin-left: auto;
+}
